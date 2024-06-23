@@ -6,9 +6,10 @@ We build a real-world degraded character image dataset by selecting from the his
 Link：https://drive.google.com/drive/folders/1gnlmmxQDJOl4wR2ITiBvnaQRN4nZc3rP?usp=sharing
 
 Where:
-- denoise: The benchmark for charater image denoising, where includes real-world noise. We produce these images by removing noise from the original character images.
-- repair: The benchmark for charater image restoration, where includes real-world noise. We produce these images by removing noise from the original character images, and also repair the broken charatcers. 
-- test: data for testing purpose. 
+- denoise: The benchmark for character image denoising, which includes real-world noise. We produce these images by removing noise from the original character images.
+- repair: The benchmark for character image restoration, which includes real-world noise. We produce these images by removing noise from the original character images and also repairing the broken characters.
+- gray: The benchmark for character image denoising, which includes real-world noise with a gray background. We produce these images by removing noise from the original character images. 
+- test: data for testing purposes. 
 
 
 For any kind of use of these datasets, please cite the following:
