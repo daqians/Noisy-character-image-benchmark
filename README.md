@@ -12,10 +12,11 @@ Where:
 
 
 For any kind of use of these datasets, please cite the following:
-@inproceedings{shi2022rcrn,
-  title={RCRN: Real-world character image restoration network via skeleton extraction},
-  author={Shi, Daqian and Diao, Xiaolei and Tang, Hao and Li, Xiaomin and Xing, Hao and Xu, Hao},
-  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
-  pages={1177--1185},
-  year={2022}
-}
+  
+@inproceedings{shi2022rcrn,  
+  title={RCRN: Real-world character image restoration network via skeleton extraction},  
+  author={Shi, Daqian and Diao, Xiaolei and Tang, Hao and Li, Xiaomin and Xing, Hao and Xu, Hao},  
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},  
+  pages={1177--1185},  
+  year={2022}  
+}  
