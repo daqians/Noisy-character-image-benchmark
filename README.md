@@ -7,7 +7,7 @@ Link：https://drive.google.com/drive/folders/1gnlmmxQDJOl4wR2ITiBvnaQRN4nZc3rP?
 
 Where:
 - denoise: The benchmark for character image denoising, which includes real-world noise. We produce these images by removing noise from the original character images.
-- repair: The benchmark for character image restoration, which includes real-world noise. We produce these images by removing noise from the original character images and also repairing the broken characters.
+- restore: The benchmark for character image restoration, which includes real-world noise. We produce these images by removing noise from the original character images and also repairing the broken characters.
 - gray: The benchmark for character image denoising, which includes real-world noise with a gray background. We produce these images by removing noise from the original character images. 
 - test: data for testing purposes. 
 
